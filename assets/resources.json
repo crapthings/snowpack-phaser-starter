@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "files": [
+      { "type": "image", "key": "phaser", "url": "./assets/phaser.png" }
+    ]
+  }
+}

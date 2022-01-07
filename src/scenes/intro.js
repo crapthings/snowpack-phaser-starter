@@ -2,7 +2,7 @@ import Phaser from 'phaser'
 
 export default class IntroScene extends Phaser.Scene {
   preload () {
-    this.load.image('phaser', 'assets/phaser.png')
+    this.load.pack('resources', './assets/resources.json')
   }
 
   create () {
